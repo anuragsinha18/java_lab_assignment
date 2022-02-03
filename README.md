@@ -1,14 +1,16 @@
 # java_lab_assignment
 -  Lab Exercise No: 1
-    Simple java program
 
-  Exercise: Write a java program to display the following 
- 			*     *     *
-			    *    *
-			       *
-  a)	Use print and println statements.
-  b)	The class file of this program should be automatically placed inside “Design” folder while compiling.
-  c)	Display the version used for compiling.
+    Exercise Objective(s): Simple java program
+
+    Exercise: Write a java program to display the following 
+                *     *     *
+                    *    *
+                    *
+    a)	Use print and println statements.
+    b)	The class file of this program should be automatically placed inside “Design” folder while compiling.
+    c)	Display the version used for compiling.
+
 
 - Lab Exercise No: 8
 
